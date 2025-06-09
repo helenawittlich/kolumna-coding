@@ -1,5 +1,8 @@
 # kolumna-coding
-Notes, code snippets, and data stories by a journalist learning to code.
+
+This repo is just me, [Helena](https://helenawittlich.com/), trying some stuff and learning how to code.
+
+
 
 
 
